@@ -1,16 +1,7 @@
-<!-- Ocean & Sun Header with Clouds -->
+<!-- Custom Header Banner: Sun, Clouds, and Ocean -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=&fontSize=80&fontColor=ffdd00&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="./header.png" alt="Ocean and Sun Header" width="100%" />
 </p>
-
-<!-- Sun and Clouds Animation -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/ikhsanulkamal/readme-animations@main/sun-clouds.gif" alt="Sun and Clouds" width="100%" onerror="this.style.display='none'; document.getElementById('alt-header').style.display='block'"/>
-</p>
-
-<div id="alt-header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:00c6ff,50:0072ff,100:ffd700&height=200&section=header&text=&animation=twinkle" alt="Ocean Waves" />
-</div>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -19,18 +10,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+### ‍💻 About Me
 
-- 🔭 I'm currently working on **building awesome open-source projects**
-- 🌱 I'm currently learning **advanced GitHub Actions and 3D visualizations**
-- 👯 I'm looking to collaborate on **web development and automation tools**
+- 🔭 I’m currently working on **building awesome open-source projects**
+- 🌱 I’m currently learning **advanced GitHub Actions and 3D visualizations**
+- 👯 I’m looking to collaborate on **web development and automation tools**
 - 💬 Ask me about **JavaScript, Python, and DevOps**
 - 📫 How to reach me: **feri@example.com** _(replace with your actual email)_
 - ⚡ Fun fact: **I automate my profile updates!**
 
 ---
 
-### 📊 3D Contribution Graph
+### 3D Contribution Graph
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
@@ -41,7 +32,7 @@
 ### 🛠️ Tech Stack & Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,docker,git,ts,html,css,github,vscode,aws&theme=dark&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,docker,git,ts,html,css,github&theme=dark&perline=7" alt="Tech Stack" />
 </p>
 
 ---
@@ -66,9 +57,7 @@
   <a href="mailto:feri@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-<!-- Ocean Footer -->
+<!-- Footer Banner: Matching Ocean Theme -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
 </p>
