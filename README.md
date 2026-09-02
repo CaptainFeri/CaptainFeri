@@ -1,6 +1,6 @@
-<!-- Custom Header Banner: Sun, Clouds, and Ocean -->
+<!-- Header Banner: Ocean Gradient with Sun-colored Text -->
 <p align="center">
-  <img src="./header.png" alt="Ocean and Sun Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=ffdd00&animation=fadeIn&fontAlignY=38" alt="header" />
 </p>
 
 <!-- Typing SVG -->
@@ -10,7 +10,7 @@
 
 ---
 
-### ‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **building awesome open-source projects**
 - 🌱 I’m currently learning **advanced GitHub Actions and 3D visualizations**
@@ -21,8 +21,9 @@
 
 ---
 
-### 3D Contribution Graph
+### 📊 3D Contribution Graph
 
+<!-- Your successfully generated 3D graph -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
@@ -31,6 +32,7 @@
 
 ### 🛠️ Tech Stack & Languages
 
+<!-- Clean, modern, and 100% reliable Skill Icons -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,docker,git,ts,html,css,github&theme=dark&perline=7" alt="Tech Stack" />
 </p>
@@ -39,6 +41,7 @@
 
 ### 📈 GitHub Activity
 
+<!-- Since Vercel stats are paused, we use a clean profile views counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CaptainFeri&color=00c6ff&style=for-the-badge" alt="Profile Views" />
 </p>
