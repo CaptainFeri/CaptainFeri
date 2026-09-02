@@ -1,11 +1,11 @@
-<!-- Header Banner -->
+<!-- Header Banner: Ocean Gradient with Sun-colored Text -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Hello%20World&fontSize=80&fontColor=ffdd00&animation=fadeIn&fontAlignY=38" alt="header" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+Converter+to+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00c6ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Problem+Solver;Coffee+Converter+to+Code" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,41 +16,38 @@
 - 🌱 I’m currently learning **advanced GitHub Actions and 3D visualizations**
 - 👯 I’m looking to collaborate on **web development and automation tools**
 - 💬 Ask me about **JavaScript, Python, and DevOps**
-- 📫 How to reach me: **feri@example.com** _(replace with your email)_
+- 📫 How to reach me: **feri@example.com** _(replace with your actual email)_
 - ⚡ Fun fact: **I automate my profile updates!**
 
 ---
 
 ### 📊 3D Contribution Graph
 
+<!-- Your successfully generated 3D graph -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Languages
 
+<!-- Clean, modern, and 100% reliable Skill Icons -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=js,py,react,nodejs,docker,git,ts,html,css,github&theme=dark&perline=7" alt="Tech Stack" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
+<!-- Since Vercel stats are paused, we use a clean profile views counter -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptainFeri&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CaptainFeri&theme=radical&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="https://komarev.com/ghpvc/?username=CaptainFeri&color=00c6ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainFeri&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <em>Your detailed repository stats and language breakdown are best viewed directly on your <a href="https://github.com/CaptainFeri?tab=repositories">Repositories Tab</a>.</em>
 </p>
 
 ---
@@ -63,7 +60,7 @@
   <a href="mailto:feri@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- Footer Banner -->
+<!-- Footer Banner: Matching Ocean Theme -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer" />
 </p>
